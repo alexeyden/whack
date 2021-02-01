@@ -1,0 +1,16 @@
+{
+  "image-file": "textures/skydomes.bmp",
+  "animation": null,
+  "static": [
+    {
+      "name": "cloudy",
+      "rect": [
+        0,
+        0,
+        544,
+        120
+      ]
+    }
+  ],
+  "ninepatch": null
+}

@@ -1,0 +1,234 @@
+{
+  "image-file": "textures/tiles.bmp",
+  "animation": [
+    {
+      "frames": [
+        [
+          224,
+          992,
+          32,
+          32
+        ],
+        [
+          192,
+          992,
+          32,
+          32
+        ],
+        [
+          160,
+          992,
+          32,
+          32
+        ],
+        [
+          128,
+          992,
+          32,
+          32
+        ],
+        [
+          96,
+          992,
+          32,
+          32
+        ],
+        [
+          64,
+          992,
+          32,
+          32
+        ],
+        [
+          32,
+          992,
+          32,
+          32
+        ],
+        [
+          0,
+          992,
+          32,
+          32
+        ]
+      ],
+      "type": "idle",
+      "name": "water",
+      "directional": false
+    }
+  ],
+  "static": [
+    {
+      "name": "glass",
+      "rect": [
+        32,
+        96,
+        32,
+        32
+      ]
+    },
+    {
+      "name": "grass_2",
+      "rect": [
+        128,
+        64,
+        32,
+        32
+      ]
+    },
+    {
+      "name": "rock_1",
+      "rect": [
+        96,
+        64,
+        32,
+        32
+      ]
+    },
+    {
+      "name": "dummy",
+      "rect": [
+        0,
+        0,
+        32,
+        32
+      ]
+    },
+    {
+      "name": "grass_green",
+      "rect": [
+        32,
+        0,
+        32,
+        32
+      ]
+    },
+    {
+      "name": "planks_end_east",
+      "rect": [
+        160,
+        32,
+        32,
+        32
+      ]
+    },
+    {
+      "name": "planks_end_west",
+      "rect": [
+        160,
+        0,
+        32,
+        32
+      ]
+    },
+    {
+      "name": "planks_end_north",
+      "rect": [
+        128,
+        32,
+        32,
+        32
+      ]
+    },
+    {
+      "name": "planks_end_south",
+      "rect": [
+        128,
+        0,
+        32,
+        32
+      ]
+    },
+    {
+      "name": "planks_east",
+      "rect": [
+        96,
+        32,
+        32,
+        32
+      ]
+    },
+    {
+      "name": "planks_south",
+      "rect": [
+        96,
+        0,
+        32,
+        32
+      ]
+    },
+    {
+      "name": "grass_dark",
+      "rect": [
+        64,
+        0,
+        32,
+        32
+      ]
+    },
+    {
+      "name": "bricks_broken_green",
+      "rect": [
+        32,
+        64,
+        32,
+        32
+      ]
+    },
+    {
+      "name": "bricks_green",
+      "rect": [
+        0,
+        64,
+        32,
+        32
+      ]
+    },
+    {
+      "name": "bricks_gate_green",
+      "rect": [
+        64,
+        64,
+        32,
+        32
+      ]
+    },
+    {
+      "name": "bricks_gate_white",
+      "rect": [
+        64,
+        32,
+        32,
+        32
+      ]
+    },
+    {
+      "name": "bricks_white",
+      "rect": [
+        0,
+        32,
+        32,
+        32
+      ]
+    },
+    {
+      "name": "bricks_broken_white",
+      "rect": [
+        32,
+        32,
+        32,
+        32
+      ]
+    },
+    {
+      "name": "bricks_blue",
+      "rect": [
+        0,
+        96,
+        32,
+        32
+      ]
+    }
+  ],
+  "ninepatch": []
+}

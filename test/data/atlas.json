@@ -1,0 +1,141 @@
+{
+  "image-file": "data/textures/ui.bmp",
+  "animation": [
+    {
+      "frames": {
+        "front": [ [1, 1, 32, 32 ] ],
+        "right": [ [2, 2, 32, 32 ] ],
+        "back":  [ [3, 3, 32, 32 ] ],
+        "left":  [ [4, 4, 32, 32 ] ]
+      },
+      "name": "zombie_new",
+      "directional": true,
+      "type" : "idle"
+    },
+    {
+      "frames": [
+        [
+          1,
+          128,
+          32,
+          32
+        ],
+        [
+          2,
+          160,
+          32,
+          32
+        ]
+      ],
+      "name": "zombie",
+			"type" : "idle",
+      "directional": false
+    }
+  ],
+  "static": [
+    {
+      "name": "green_bricks_wall",
+      "rect": [
+        0,
+        224,
+        32,
+        32
+      ]
+    },
+    {
+      "name": "wooden_floor",
+      "rect": [
+        64,
+        224,
+        32,
+        32
+      ]
+    },
+    {
+      "name": "work",
+      "rect": [
+        96,
+        192,
+        32,
+        32
+      ]
+    },
+    {
+      "name": "torch",
+      "rect": [
+        160,
+        144,
+        16,
+        16
+      ]
+    },
+    {
+      "name": "grass",
+      "rect": [
+        64,
+        192,
+        32,
+        32
+      ]
+    }
+  ],
+  "ninepatch": [
+    {
+      "right": [
+        208,
+        88,
+        8,
+        8
+      ],
+      "name": "button_normal",
+      "bottom": [
+        200,
+        96,
+        8,
+        8
+      ],
+      "top": [
+        200,
+        80,
+        8,
+        8
+      ],
+      "center": [
+        200,
+        88,
+        8,
+        8
+      ],
+      "bottom-right": [
+        208,
+        96,
+        8,
+        8
+      ],
+      "bottom-left": [
+        192,
+        96,
+        8,
+        8
+      ],
+      "top-right": [
+        208,
+        80,
+        8,
+        8
+      ],
+      "top-left": [
+        192,
+        80,
+        8,
+        8
+      ],
+      "left": [
+        192,
+        88,
+        8,
+        8
+      ]
+    }
+  ]
+}

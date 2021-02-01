@@ -1,0 +1,10 @@
+/.kdev4
+/*.kdev4
+/gmon.out
+/core.*
+/build
+/build_android
+/deps/linux/*
+/deps/android/*
+/deps/SDL2/libs
+/deps/SDL2/obj
